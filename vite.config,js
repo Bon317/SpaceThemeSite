@@ -1,5 +1,5 @@
 export default {
 
-  base: 'SpaceThemeSite',
+  base: '/gh-Pages',
 
 };
