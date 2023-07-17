@@ -1,5 +1,5 @@
 export default {
 
-  base: '/gh-pages',
+  base: '/master',
 
 };
